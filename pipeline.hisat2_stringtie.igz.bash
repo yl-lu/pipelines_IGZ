@@ -4,7 +4,6 @@ genomeFilesDir=/net/home/igz/yllu/genomeFiles/sly/ITAG4.0_release
 genomeFastaFile=$genomeFilesDir/S_lycopersicum_chromosomes.4.00.fa
 geneGffPath=$genomeFilesDir/ITAG4.0_gene_models.gff
 locusGffPath=$genomeFilesDir/ITAG4.0_geneLocus.gff
-hisatIndexDir=/net/home/igz/yllu/projects/KETCHUP/hisat2_index
 ssFile=$genomeFilesDir/ITAG4.0.ss
 exonFile=$genomeFilesDir/ITAG4.0.exon
 cleanDataDir=/mnt/petroselinum-2.int.igzev.de/petro-2_data-1_BiSc_2/IGZ_data/raw_data/216R/raw
